@@ -1,10 +1,10 @@
 {
-  "name": "meanjs",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
+  "name": "mamahumus-ru",
+  "description": "humus cafe delivery web-site",
   "version": "0.5.0",
   "meanjs-version": "0.5.0",
   "private": false,
-  "author": "https://github.com/meanjs/mean/graphs/contributors",
+  "author": "t@tak",
   "license": "MIT",
   "repository": {
     "type": "git",
